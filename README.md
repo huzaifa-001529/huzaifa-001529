@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working with Digisync Technologies.<br>👯 I’m looking for clients and full time job.<br>🌱 I’m currently learning Backend with C#.NET and JAVA.<br>⚡ Fun fact: I'm also expert in front end development with react JS, 3d modeling with blender, backend with PHP and MySql and also in wordpress.
+🔭 I’m currently working with Digisync Technologies.<br>👯 I’m looking for clients and full time job.<br>🌱 I’m currently learning Backend with C#.NET and JAVA.<br>⚡ Fun fact: I'm also expert in front end development with react JS, 3d modeling with blender, backend with PHP, MySql and wordpress and also some use of Unreal Engine.
 
 
 ## 🌐 Socials:
