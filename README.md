@@ -63,6 +63,5 @@ Hello! I'm **Huzaifa**, a passionate full-stack developer and 3D modeling enthus
 
 ---
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=huzaifa-001529&icon=10&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
