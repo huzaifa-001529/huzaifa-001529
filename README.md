@@ -1,14 +1,14 @@
 # 💫 About Me:
 Full-Stack & Multi-Platform Developer | Creative Technologist
 
-I'm a versatile developer currently working at Digisync Technologies in Khyber Pakhtunkhwa, Pakistan, with a passion for building seamless digital experiences across the web, mobile, and interactive 3D environments.
+I'm a versatile developer currently working at Digisync Technologies in Khyber Pakhtunkhwa, Pakistan, with a passion for building seamless digital experiences across the web, mobile, and interactive 3D environments.<br>
 
-🔭 Currently: Building robust backend systems with C# .NET and expanding my expertise in Java for enterprise applications.
-👯 Looking for: Exciting full-time roles or freelance clients — let's collaborate!
-🌱 Learning: Deepening my backend architecture knowledge while exploring scalable system design.
-⚡ Beyond code: I blend development with digital artistry — skilled in React.js frontends, WordPress/PHP solutions, Blender 3D modeling, and even interactive experiences with Unreal Engine.
+🔭 Currently: Building robust backend systems with C# .NET and expanding my expertise in Java for enterprise applications.<br>
+👯 Looking for: Exciting full-time roles or freelance clients — let's collaborate!<br>
+🌱 Learning: Deepening my backend architecture knowledge while exploring scalable system design.<br>
+⚡ Beyond code: I blend development with digital artistry — skilled in React.js frontend, WordPress/PHP solutions, Blender 3D modeling, and even interactive experiences with Unreal Engine and also blogs writing.<br>
 
-I thrive at the intersection of technology and creativity, whether it's crafting pixel-perfect UIs, designing efficient databases, or bringing 3D concepts to life.
+I thrive at the intersection of technology and creativity, whether it's crafting pixel-perfect UIs, designing efficient databases, or bringing 3D concepts to life.<br>
 
 
 ## 🌐 Socials:
