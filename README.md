@@ -1,5 +1,14 @@
 # 💫 About Me:
-🔭 I’m currently working with Digisync Technologies, KP, Pakistan.<br>👯 I’m looking for clients and full time job.<br>🌱 I’m currently learning Backend with C#.NET and JAVA.<br>⚡ Fun fact: I'm also expert in front end development with react JS, 3d modeling with blender, backend with PHP, MySql and wordpress and also some use of Unreal Engine.
+Full-Stack & Multi-Platform Developer | Creative Technologist
+
+I'm a versatile developer currently working at Digisync Technologies in Khyber Pakhtunkhwa, Pakistan, with a passion for building seamless digital experiences across the web, mobile, and interactive 3D environments.
+
+🔭 Currently: Building robust backend systems with C# .NET and expanding my expertise in Java for enterprise applications.
+👯 Looking for: Exciting full-time roles or freelance clients — let's collaborate!
+🌱 Learning: Deepening my backend architecture knowledge while exploring scalable system design.
+⚡ Beyond code: I blend development with digital artistry — skilled in React.js frontends, WordPress/PHP solutions, Blender 3D modeling, and even interactive experiences with Unreal Engine.
+
+I thrive at the intersection of technology and creativity, whether it's crafting pixel-perfect UIs, designing efficient databases, or bringing 3D concepts to life.
 
 
 ## 🌐 Socials:
