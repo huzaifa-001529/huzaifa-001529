@@ -1,15 +1,15 @@
 # 💫 About Me:
 Full-Stack & Multi-Platform Developer | Creative Technologist
 
-I'm a versatile developer currently working at Digisync Technologies in Khyber Pakhtunkhwa, Pakistan, with a passion for building seamless digital experiences across the web, mobile, and interactive 3D environments.<br>
+I'm a versatile developer currently working at Digisync Technologies, Pakistan, with a passion for building seamless digital experiences across the web, desktop and interactive 3D environments.<br>
 
 🔭 Currently: Building robust backend systems with C# .NET and expanding my expertise in Java for enterprise applications.<br>
 👯 Looking for: Exciting full-time roles or freelance clients — let's collaborate!<br>
 🌱 Learning: Deepening my backend architecture knowledge while exploring scalable system design.<br>
-⚡ Beyond code: I blend development with digital artistry — skilled in React.js frontend, WordPress/PHP solutions, Blender 3D modeling, and even interactive experiences with Unreal Engine and also blogs writing.<br>
-👨‍💻 All of my projects are available at https://github.com/huzaifa-001529 <br>
-📄 Know about my experiences https://huzaifa-bin-khalid.netlify.app/<br>
-📫 How to reach me guest73blog@gmail.com<br>
+⚡ Beyond code: I blend development with digital artistry — skilled in React.js frontend, WordPress/PHP solutions, Blender 3D modeling, and even interactive experiences with Unity Engine and also blogs writing.<br>
+👨‍💻 All of my projects are available at <a href="https://github.com/huzaifa-001529">GitHub</a> <br>
+📄 Know about my experiences from my<a href="https://huzaifa-bin-khalid.netlify.app/">Portfolio</a><br>
+📫 How to reach me via <a href="guest73blog@gmail.com">Contact E-mail</a> OR <a href="https://wa.me/923349270383">Whatsapp</a><br>
 
 I thrive at the intersection of technology and creativity, whether it's crafting pixel-perfect UIs, designing efficient databases, or bringing 3D concepts to life.<br>
 
