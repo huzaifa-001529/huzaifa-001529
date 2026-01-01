@@ -7,6 +7,9 @@ I'm a versatile developer currently working at Digisync Technologies in Khyber P
 👯 Looking for: Exciting full-time roles or freelance clients — let's collaborate!<br>
 🌱 Learning: Deepening my backend architecture knowledge while exploring scalable system design.<br>
 ⚡ Beyond code: I blend development with digital artistry — skilled in React.js frontend, WordPress/PHP solutions, Blender 3D modeling, and even interactive experiences with Unreal Engine and also blogs writing.<br>
+👨‍💻 All of my projects are available at https://github.com/huzaifa-001529 <br>
+📄 Know about my experiences https://huzaifa-bin-khalid.netlify.app/<br>
+📫 How to reach me guest73blog@gmail.com<br>
 
 I thrive at the intersection of technology and creativity, whether it's crafting pixel-perfect UIs, designing efficient databases, or bringing 3D concepts to life.<br>
 
